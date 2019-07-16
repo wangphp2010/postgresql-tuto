@@ -404,7 +404,7 @@ https://blog.csdn.net/abcbetty_soft/article/details/54137279
 > begin;
 > update users set score = 50 where player = 'Curry' ;
 > update users set score = 60 where player = 'Haden' ;
-commit ; 
+> commit ; 
 > select * from users;
 > begin;
 > update users set score = 0 where player = 'Curry' ;
