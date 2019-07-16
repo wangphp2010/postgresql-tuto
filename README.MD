@@ -369,7 +369,8 @@ insert into twitters(user_id , content ) values
 https://blog.csdn.net/abcbetty_soft/article/details/54137279
 
 
-##　使用视图　
+
+## 使用视图　
 
 视图就是一个select语句,把业务系统中常用的select语句简化成一个类似于表的对象,便于简单读取和开发.
 视图是一个虚拟表,即视图所对应的数据不进行实际存储.
